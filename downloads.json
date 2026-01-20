@@ -1,11 +1,13 @@
 {
-  "id": "meteor-client",
-  "name": "Meteor Client",
-  "description": "Meteor Client for Minecraft 1.21.1",
-  "minecraftVersion": "1.21.1",
-  "fabricRequired": true,
-  "downloadUrl": "https://raw.githubusercontent.com/harveystent2-cmd/Meteor-client-addons2/main/meteor-client-1.21.1.jar",
-  "fileSizeBytes": 9200000,
-  "sha256": "PUT_THE_REAL_SHA256_HERE",
-  "fileName": "meteor-client-1.21.1.jar"
+  "items": [
+    {
+      "id": "meteor-client",
+      "name": "Meteor Client",
+      "description": "Meteor Client for Minecraft 1.21.1",
+      "minecraftVersion": "1.21.1",
+      "fabricRequired": true,
+      "downloadUrl": "https://raw.githubusercontent.com/harveystent2-cmd/Meteor-client-addons2/main/meteor-client-1.21.1.jar",
+      "fileName": "meteor-client-1.21.1.jar"
+    }
+  ]
 }
