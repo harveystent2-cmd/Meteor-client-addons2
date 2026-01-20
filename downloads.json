@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-01-20T18:00:00Z",
+  "items": [
+    {
+      "id": "meteor-client",
+      "name": "Meteor Client",
+      "description": "Meteor Client for Minecraft 1.21.1",
+      "minecraftVersion": "1.21.1",
+      "fabricRequired": true,
+      "downloadUrl": "https://raw.githubusercontent.com/harvestent2-cmd/Meteor-client-addons/main/meteor-client-1.21.1.jar",
+      "fileSizeBytes": 9200000
+    }
+  ]
+}
